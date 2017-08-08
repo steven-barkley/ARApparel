@@ -13,7 +13,7 @@
 
 | Tool | Links|
 | ------ | ------ |
-| Unity | [] [PlDb] |
-| Github | [] [PlGh] |
-| Vuforia | [] [PlGd] |
-| Swift | [] [PlOd] |
+| Unity | [https://unity3d.com/get-unity/download] [PlDb] |
+| Github | [https://unity3d.com/get-unity/download] [PlGh] |
+| Vuforia | [https://developer.vuforia.com/downloads/sdk] [PlGd] |
+| Swift | [https://www.apple.com/swift/] [PlOd] |
