@@ -1,11 +1,10 @@
 # Design Prompt
 
-## A mobile application designed to facilitate Augmented Reality engagement.
+## A mobile application designed to facilitate Augmented Reality job seeker engagement.
 
-> The plan for this project is grand in scope, nevertheless I wish to keep
-> to the MVP that works from end to end. So my strategy is two fold: I
-> need to understand what problem I am solving & secondly who are my stake
-> -holders once I have the solution to said problem. Finally, after an apt
+> Facilitate realtime job application statuses to job seeker and employers
+> Gather applicant application click data and real-time Augmented GPS routing
+> Use applicant data to inform job board, job seeker and job holder of updated status
 > go to market strategy can be envisioned build the technology that will  
 > enable the engagement.
 
@@ -13,6 +12,7 @@
 
 | Tool | Links|
 | ------ | ------ |
+| Unknown | Data Storage |
 | Unity | [https://unity3d.com/get-unity/download] |
 | Github | [https://unity3d.com/get-unity/download] |
 | Vuforia | [https://developer.vuforia.com/downloads/sdk] |
