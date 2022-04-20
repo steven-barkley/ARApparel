@@ -1,6 +1,6 @@
-# Design Prompt
+# Design Prompts
 
-## A mobile application designed to facilitate Augmented Reality job seeker engagement.
+## 1 week design prompt designed specifically for career interviews.
 
 > Facilitate realtime job application statuses to job seeker and employers
 > Gather applicant application click data and real-time Augmented GPS routing
