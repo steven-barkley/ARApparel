@@ -30,5 +30,5 @@
 
 ### Clone
 
-- Clone this repo to your local machine using `https://github.com/FrancesCoronel/SOMEREPO`
+- Clone this repo to your local machine using `https://gist.github.com/FrancesCoronel/1bfc2d4aecb01a834b46`
 
