@@ -8,18 +8,11 @@
 [![Interview Call](https://github.com/steven-barkley/Website-Qlik-2022/blob/master/Content/Media/Qlik_Virtual_Interview_Time.PNG)](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDQ2ZDA0NDktMjFiNC00MTVlLTgwNzktNmUwNzQ1YzEwZWRh%40thread.v2/0?context=%7b%22Tid%22%3a%22c21eeb5f-f5a6-44e8-a997-124f2f7a497c%22%2c%22Oid%22%3a%22609cdefb-6c81-4f3c-b80e-7ffdfedb5988%22%7d)
 
 ## Initial Strategy for 30 min Interview
-| April 20,21 | ---------------  |  |  |
-| April 22, 23 | --------------- |  | --------------- |
-| April 24,25  |--------------- | Develop | Articulate|
-| April 26 |  ---------------  | Row 2 Column 3 | |
-| Row 3 Column 1 | Row 3 Column 2 | Row 3 Column 3 | |
-
 
 | April 20,21 | April 22, 23 | April 24,25 | April 26 |
 | --------------- | --------------- | --------------- | --------------- |
-| Research | Design | Develop | Articulate|
-| Row 2 Column 1 | Row 2 Column 2 | Row 2 Column 3 | |
-| Row 3 Column 1 | Row 3 Column 2 | Row 3 Column 3 | |
+| Research | Design | Develop | Articulate |
+
 
 [![Interview Plan](https://github.com/steven-barkley/Website-Qlik-2022/blob/master/Content/Media/Photos-001/20220421_091248.jpg)]
 
