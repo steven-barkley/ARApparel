@@ -28,7 +28,7 @@
 [![Job Description](https://github.com/steven-barkley/Website-Qlik-2022/blob/master/Content/Media/Job_description.PNG)](https://jobs.jobvite.com/careers/qlik/job/ocsajfwR?__jvst=Job+Board&__jvsd=Indeed)
 
 
-### Clone
+### Guideline for Readme
 
-- Clone this repo to your local machine using `https://gist.github.com/FrancesCoronel/1bfc2d4aecb01a834b46`
+- Guideline `https://gist.github.com/FrancesCoronel/1bfc2d4aecb01a834b46`
 
