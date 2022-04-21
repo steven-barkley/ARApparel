@@ -6,6 +6,9 @@
 
 ***Click image to go to call***
 [![Interview Call](https://github.com/steven-barkley/Website-Qlik-2022/blob/master/Content/Media/Qlik_Virtual_Interview_Time.PNG)](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDQ2ZDA0NDktMjFiNC00MTVlLTgwNzktNmUwNzQ1YzEwZWRh%40thread.v2/0?context=%7b%22Tid%22%3a%22c21eeb5f-f5a6-44e8-a997-124f2f7a497c%22%2c%22Oid%22%3a%22609cdefb-6c81-4f3c-b80e-7ffdfedb5988%22%7d)
+
+
+[![Interview Plan](https://github.com/steven-barkley/Website-Qlik-2022/commit/b403c1c3ee20715c51a4e162917241006ef3d113)]
 > Subtitle or Short Description Goes Here
 >
 > ideally one sentence
