@@ -9,9 +9,20 @@
 
 ## Initial Strategy for 30 min Interview
 
+### Scheduling
 | April 20,21 | April 22, 23 | April 24,25 | April 26 |
 | --------------- | --------------- | --------------- | --------------- |
 | Research | Design | Develop | Articulate |
+
+### Possible Interview Breakdown
+
+| Interview Topic | 30 min |
+| ------------ | --------- |
+| Previous Experience | 4 min. |
+| Current Work | 4 min. |
+| Who I am as a developer? | 4 min. |
+| Walk through example | 4 min. |
+| Additional Q & A | 4 min. |
 
 
 [![Interview Plan](https://github.com/steven-barkley/Website-Qlik-2022/blob/master/Content/Media/Photos-001/20220421_091248.jpg)]
