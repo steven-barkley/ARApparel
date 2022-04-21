@@ -1,6 +1,6 @@
 # Qlik - Partner Experience Web Developer
 
-[![Steven Barkley](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](https://francescoronel.com)
+[![Interview](https://github.com/steven-barkley/Website-Qlik-2022/blob/master/Content/Media/Qlik_Recruiting_Appointment.PNG)](https://francescoronel.com)
 
 ***INSERT GRAPHIC HERE (include hyperlink in image)***
 
