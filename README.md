@@ -25,8 +25,7 @@
 | Additional Q & A | 4 min. |
 | Misc. & lost time | 4 min. |
 
-
-[![Interview Plan](https://github.com/steven-barkley/Website-Qlik-2022/blob/master/Content/Media/Photos-001/20220421_091248.jpg)]
+[![Job Description](https://jobs.jobvite.com/careers/qlik/job/ocsajfwR?__jvst=Job+Board&__jvsd=Indeed)]
 
 Badges can go here (build status, issues (waffle.io maybe), devDependencies, npm package, coverage, slack, downloads, gitter chat, license, etc.)
 
