@@ -30,5 +30,5 @@
 
 ### Guideline for Readme
 
-- Guideline `https://gist.github.com/FrancesCoronel/1bfc2d4aecb01a834b46`
+- Reference `https://gist.github.com/FrancesCoronel/1bfc2d4aecb01a834b46`
 
