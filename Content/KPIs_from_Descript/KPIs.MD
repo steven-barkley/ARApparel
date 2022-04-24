@@ -23,7 +23,7 @@
 
 
 | Employer | Paid Role | Dates | Experience|
-| --- | --- | -- | 
+| -------- | --------- | ----- | ----------|
 |Freelance |Wordpress Developer|July 15 - Feb 17 | 1 year 8 months |
 |Launchcode|Teaching Assistant (Contractor)|July 18 - Jan 19 | 7 months |
 |Codefever|Teaching Assistant (Contractor)|Feb 19 - Jun 19 | 5 months |
