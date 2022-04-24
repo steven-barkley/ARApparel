@@ -28,4 +28,4 @@
 
 ### Design and Visual Communication Skills
 
-- Behance link [Go to visual portfolio](https://www.behance.net/illustratestr)](https://github.com/steven-barkley/Website-Qlik-2022/blob/master/Content/Media/Behance_Snip.PNG)
+- Behance link [![Behance](https://github.com/steven-barkley/Website-Qlik-2022/blob/master/Content/Media/Behance_Snip.PNG)](https://www.behance.net/illustratestr)
