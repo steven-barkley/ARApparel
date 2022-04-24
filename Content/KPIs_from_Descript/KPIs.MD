@@ -15,13 +15,6 @@
 
 ### Web and content creation
 
-| Column 1 Header | Column 2 Header | Column 3 Header |
-| --------------- | --------------- | --------------- |
-| Row 1 Column 1 | Row 1 Column 2 | Row 1 Column 3 |
-| Row 2 Column 1 | Row 2 Column 2 | Row 2 Column 3 |
-| Row 3 Column 1 | Row 3 Column 2 | Row 3 Column 3 |
-
-
 | Employer | Paid Role | Dates | Experience|
 | -------- | --------- | ----- | ----------|
 |Freelance |Wordpress Developer|July 15 - Feb 17 | 1 year 8 months |
