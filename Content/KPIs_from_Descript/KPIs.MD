@@ -29,7 +29,7 @@
 |Codefever|Teaching Assistant (Contractor)|Feb 19 - Jun 19 | 5 months |
 |Miami Dade College|Teaching Assistant (Contractor)|July 19 - Oct 19 | 7 months |
 |H.A.N.D.Y.|Technology Coordinator|July 19 - Aug 21 | 2 years 2 months |
-| Total experience | 5 years and 2 months | web design 2 yrs | content creation and website maintenance 3 yrs 2 months |
+| Total experience | Five Roles | July 15 - Aug 21 | 5 years 2 months |
 
 ### Design and Visual Communication Skills
 
