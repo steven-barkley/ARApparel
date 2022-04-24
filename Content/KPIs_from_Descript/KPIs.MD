@@ -1,6 +1,6 @@
 # Key Performance Indicators for Qlik role
 
-- Three years in web design and content creation, website maintenance or similiar
+### - Three years in web design and content creation, website maintenance or similiar
 - Strong design and visual communication skills
 - Good organizational skills
 - Strong problem solving and troubleshooting skills
