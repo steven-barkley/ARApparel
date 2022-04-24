@@ -2,4 +2,4 @@
 
 ## Figma link
 
-[![Interview](https://github.com/steven-barkley/Website-Qlik-2022/blob/master/Content/Media/Qlik_Recruiting_Appointment.PNG)](https://francescoronel.com)
+[![Interview]()](https://www.figma.com/file/gulg5zDlF1kJS0JvpmWiAm/Qlik-Design-Project?node-id=0%3A1)
