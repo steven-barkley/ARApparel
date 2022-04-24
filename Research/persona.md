@@ -14,6 +14,7 @@
 
 [![Interview](https://github.com/steven-barkley/Website-Qlik-2022/blob/master/Content/Media/BI_ranking_of_kings.png)](https://twitter.com/qlik)
 
+Qlik is both a leader and visionary in the business intelligence space.
 
 ### Guideline references
 
