@@ -15,6 +15,8 @@
 
 ### Web and content creation
 
+- LinkedIn link [Go to job history](https://www.linkedin.com/in/stevenbarkley/)
+
 | Employer | Paid Role | Dates | Experience|
 | -------- | --------- | ----- | ----------|
 |Freelance |Wordpress Developer|July 15 - Feb 17 | 1 year 8 months |
@@ -26,4 +28,4 @@
 
 ### Design and Visual Communication Skills
 
-- Behance link [Go to visual portfolio](https://github.com/steven-barkley/Website-Qlik-2022/blob/master/Content/Media/Behance_Snip.PNG)
+- Behance link [Go to visual portfolio](https://www.behance.net/illustratestr)](https://github.com/steven-barkley/Website-Qlik-2022/blob/master/Content/Media/Behance_Snip.PNG)
