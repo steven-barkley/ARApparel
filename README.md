@@ -14,6 +14,11 @@
 | --------------- | --------------- | --------------- | --------------- |
 | Research | Design | Develop | Articulate |
 
+### Actual Scheduling 
+| April 20,21 | April 22, 23 | April 24,25 | April 26 |
+| --------------- | --------------- | --------------- | --------------- |
+| Research | Research | Design | ????? |
+
 ### Possible Interview Breakdown
 
 | Interview Topic | 30 min |
