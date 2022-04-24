@@ -14,14 +14,14 @@
 ## My Performance Indicators for Role
 
 ### Web and content creation
-
-- Launchcode - Teaching Assistant (Contractor) July 18 - Jan 19 - 7 months
-- Codefever - Teaching Assistant (Contractor) Feb 19 - Jun 19 - 5 months
-- Miami Dade College - Teaching Assistant (Contractor) July 19 - Oct 19 4 months
-- H.A.N.D.Y. - Technology Coordinator Employee July 19 - Aug 21 2 years 2 months
-- Freelance - Wordpress Developer - July 15 - Feb 17 1 8 months
-
-- 5 years and 2 months web design and content creation, website maintenance or similiar
+| Employer | Paid Role | | Dates | | Experience|
+| :-- | | :-- | | :-- | | :--|
+|Freelance |Wordpress Developer|July 15 - Feb 17 | 1 year 8 months |
+|Launchcode|Teaching Assistant (Contractor)|July 18 - Jan 19 | 7 months |
+|Codefever|Teaching Assistant (Contractor)|Feb 19 - Jun 19 | 5 months |
+|Miami Dade College|Teaching Assistant (Contractor)|July 19 - Oct 19 | 7 months |
+|H.A.N.D.Y.|Technology Coordinator|July 19 - Aug 21 | 2 years 2 months |
+| Total experience | 5 years and 2 months | web design 2 yrs | content creation and website maintenance 3 yrs 2 months |
 
 ### Design and Visual Communication Skills
 
