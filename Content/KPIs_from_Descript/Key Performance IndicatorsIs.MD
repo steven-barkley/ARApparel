@@ -38,4 +38,4 @@
 
 - Pluralsight [![Badge](https://github.com/steven-barkley/Website-Qlik-2022/blob/master/Content/Media/app-pluralsight-achievements-2022-04-26-00_16_34.png)](https://app.pluralsight.com/achievements)
 
-- Launchcode [![Completion]()](https://learn.launchcode.org/courses/64/assignments/syllabus)
+- Launchcode [![Completion](https://github.com/steven-barkley/Website-Qlik-2022/blob/master/Content/Media/launchcode-org-applicants-dashboard-2022-04-26-00_33_10.png)](https://learn.launchcode.org/courses/64/assignments/syllabus)
