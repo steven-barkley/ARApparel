@@ -34,6 +34,8 @@
 
 - Codecademy [![Badge](https://github.com/steven-barkley/Website-Qlik-2022/blob/master/Content/Media/codecademy-users-Steven-Barkley-achievements-2022-04-25-23_50_53.png)](https://www.codecademy.com/users/Steven.Barkley/achievements)
 
-- Treehouse [![Badge]()](https://teamtreehouse.com/home/view:completed)
+- Treehouse [![Badge](https://github.com/steven-barkley/Website-Qlik-2022/blob/master/Content/Media/teamtreehouse-home-view-completed-2022-04-26-00_14_03.png)](https://teamtreehouse.com/home/view:completed)
 
-- Pluralsight [![Badge]()](https://app.pluralsight.com/achievements)
+- Pluralsight [![Badge](https://github.com/steven-barkley/Website-Qlik-2022/blob/master/Content/Media/app-pluralsight-achievements-2022-04-26-00_16_34.png)](https://app.pluralsight.com/achievements)
+
+- Launchcode [![Completion]()](https://learn.launchcode.org/courses/64/assignments/syllabus)
