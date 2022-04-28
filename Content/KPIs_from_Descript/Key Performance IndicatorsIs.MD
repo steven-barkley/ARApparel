@@ -30,6 +30,8 @@
 
 - Behance link [![Behance](https://github.com/steven-barkley/Website-Qlik-2022/blob/master/Content/Media/Behance_Snip.PNG)](https://www.behance.net/illustratestr)
 
+- Google Design Certificate [![Design](https://github.com/steven-barkley/Website-Qlik-2022/blob/master/Content/Media/Coursera-org-professional-certificates-google-ux-design-2022-04-27-07_05_45.png)](https://www.coursera.org/professional-certificates/google-ux-design)
+
 ### HTML CSS AND JAVASCRIPT
 
 - Codecademy [![Badge](https://github.com/steven-barkley/Website-Qlik-2022/blob/master/Content/Media/codecademy-users-Steven-Barkley-achievements-2022-04-25-23_50_53.png)](https://www.codecademy.com/users/Steven.Barkley/achievements)
