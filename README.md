@@ -33,5 +33,5 @@
 
 [![Job Description](https://github.com/steven-barkley/Website-Qlik-2022/blob/master/Content/Media/Job_description.PNG)](https://jobs.jobvite.com/careers/qlik/job/ocsajfwR?__jvst=Job+Board&__jvsd=Indeed)
 
-[![WIP Website](https://github.com/steven-barkley/Website-Qlik-2022/blob/master/Content/Media/Qlik_website_wireframe.PNG)]()
+[![WIP Website](https://github.com/steven-barkley/Website-Qlik-2022/blob/master/Content/Media/Qlik_website_wireframe.PNG)](https://steven-barkley.github.io/Website-Qlik-2022/)
 
